@@ -35,5 +35,3 @@ I utilized an **L298N H-Bridge driver** to manage two DC motors. The code uses P
 * **Telemetry:** I integrated Serial communication to provide real-time feedback on sensor triggers, which was essential during the calibration of the `BLACK_THRESHOLD` for the IR sensor.
 * **Expansion Ready:** The current pin definitions include speed sensor inputs (encoders), providing the foundation for future PID control implementation to ensure perfectly straight tracking.
 
-
-**Focus:** Mechatronics, Embedded Systems, and Robotics
