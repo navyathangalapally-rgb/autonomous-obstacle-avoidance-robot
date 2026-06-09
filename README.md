@@ -1,9 +1,7 @@
 # Autonomous Navigation & Edge Detection Robot
 
 This project is a custom-built autonomous mobile platform designed to navigate dynamic environments. Using a combination of ultrasonic distance sensing and infrared (IR) threshold detection, the robot performs real-time path planning and executes safety-stop protocols when it encounters boundaries.
-
-### Project in Action
-**[Click here to watch the Demo Video](./IMG_8656.MOV)** *(Note: If the link doesn't open directly, please select `IMG_8656.MOV` from the file list at the top of this repository.)*
+<img width="1200" height="1600" alt="Arduino pic1" src="https://github.com/user-attachments/assets/b0656856-d72d-405e-a2bb-a7cd44c01b36" />
 
 
 ## Control Logic & Features
